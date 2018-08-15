@@ -34,3 +34,7 @@ load();
 function teste(){
   alert("Aprendendo Git");
 }
+
+function teste2(){
+  console.log("teste2");
+}
